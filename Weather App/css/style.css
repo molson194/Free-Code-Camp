@@ -1,0 +1,6 @@
+body {
+  background-color:#333333;
+}
+
+#temp {display:inline-block;margin-right:10px;float: left;margin-left: 45%;} 
+#unit {display:inline-block;} 
