@@ -1,0 +1,67 @@
+h2 {
+  padding-left: 15px;
+}
+
+h4 {
+  width: 237px;
+  text-align: center;
+}
+
+.game-container {
+  width: 350px;
+  height: 330px;
+  margin: 50px auto;
+  position: relative;
+}
+
+.game-buttons {
+  left: 13px;
+  position: absolute;
+  cursor: pointer;
+}
+
+.game-button {
+  width: 160px;
+  height: 70px;
+  float: left;
+  border: 1px solid black;
+  margin: 1px;
+  border-radius: 10px;
+}
+
+#b0 {
+  background-color: #d9534f;
+}
+
+#b1 {
+  background-color: #5cb82c;
+}
+
+#b2 {
+  background-color: #5cb89c;
+}
+
+#b3 {
+  background-color: #428bfa;
+}
+
+.alternate {
+  opacity: 0.3;
+  filter: alpha(opacity=30);
+}
+
+.bottom-container {
+  position: absolute;
+  bottom: 5px;
+  left: 55px;
+}
+
+
+.game-controls {
+  height: 86px !important;
+}
+
+
+button, input {
+  width: 237px;
+}
